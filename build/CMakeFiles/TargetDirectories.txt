@@ -1,0 +1,7 @@
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/ringbuffer.dir
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/edit_cache.dir
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/rebuild_cache.dir
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/list_install_components.dir
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/install.dir
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/install/local.dir
+/home/svaya/Documents/GitHub/ring_buffer/build/CMakeFiles/install/strip.dir
